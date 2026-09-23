@@ -1,114 +1,69 @@
 <div align="center">
 
+<img src="./assets/webbuilderz-3d.png" width="900" alt="WebBuilderz">
+
 # 🌐 WebBuilderz
 
-### `BUILD • CREATE • INNOVATE`
+### BUILD • CREATE • INNOVATE
 
-<img src="./assets/webbuilderz-3d.gif" width="420" alt="WebBuilderz 3D Animation">
-
-<br>
-
-### 🚀 Digital Experiences. Intelligent Solutions.
-
-**Web Development • AI • Cloud • Automation**
+<p>
+Building modern websites, AI solutions, cloud applications & digital experiences.
+</p>
 
 </div>
 
 ---
 
-## ✨ About WebBuilderz
+## 🚀 What We Build
 
-**WebBuilderz** is a technology-focused development brand creating modern digital experiences, intelligent applications and practical software solutions.
+| 🌐 Web Development | 🤖 AI Solutions |
+|---|---|
+| Modern & responsive websites | Intelligent applications |
 
-We build projects around:
-
-* 🌐 Modern Web Applications
-* 🤖 AI-powered Solutions
-* ☁️ Cloud Technologies
-* ⚙️ Automation
-* 🎨 UI/UX Experiences
-* 💻 Software Development
+| ☁️ Cloud & DevOps | ⚙️ Automation |
+|---|---|
+| Scalable cloud solutions | Simplified workflows |
 
 ---
 
-## 🧩 Technology Stack
+## 🛠️ Technology Stack
 
-<div align="center">
-
-### Frontend
-
+**Frontend:**  
 `HTML` `CSS` `JavaScript` `React`
 
-### Backend
-
+**Backend:**  
 `Python` `PHP` `Node.js`
 
-### Database
-
+**Database:**  
 `MySQL` `SQL`
 
-### AI / ML
-
+**AI / ML:**  
 `Python` `AI` `Machine Learning`
 
-### Cloud & DevOps
-
+**Cloud & DevOps:**  
 `Google Cloud` `Terraform` `Git` `GitHub`
 
-</div>
-
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
 ### 🌱 AI Smart Agro
-
-An AI-powered agriculture platform designed to provide smart farming assistance and intelligent agricultural insights.
-
-**Tech:** `Python` `AI` `Web` `MySQL`
-
----
+AI-powered agriculture platform for smart farming assistance and agricultural insights.
 
 ### 💰 UPI Expense Tracker
-
-A web application for tracking, managing and analyzing personal expenses.
-
-**Tech:** `PHP` `MySQL` `JavaScript`
-
----
+Web application for tracking, managing and analyzing personal expenses.
 
 ### 🎬 Rajbhoj Films
-
-A cinematic photography and filmmaking website designed to showcase services, portfolio and creative work.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
-
-## ⚡ What We Believe
-
-> **Ideas become powerful when you build them.**
-
-We learn by building real-world projects, experimenting with new technologies and continuously improving our development workflow.
-
----
-
-## 🌐 Connect With WebBuilderz
-
-<div align="center">
-
-**Building the future, one project at a time. 🚀**
-
-⭐ Explore our repositories
-💡 Build • Learn • Experiment
-🌐 WebBuilderz
-
-</div>
+Cinematic photography and filmmaking portfolio website.
 
 ---
 
 <div align="center">
 
-### `CODE • CREATE • DEPLOY • REPEAT`
+### 💡 IDEAS INTO REALITY
+
+**CODE • CREATE • INNOVATE • REPEAT**
+
+⭐ Explore the repositories and follow the journey.
 
 </div>
