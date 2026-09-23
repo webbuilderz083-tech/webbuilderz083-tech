@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/webbuilderz-3d.png" width="900" alt="WebBuilderz">
+<img src="webbuilderz-3d.png" width="900" alt="WebBuilderz">
 
 # 🌐 WebBuilderz
 
