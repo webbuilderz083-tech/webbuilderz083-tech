@@ -1,31 +1,39 @@
-# 👋 Welcome to WebBuilderz
+<div align="center">
 
-### 🚀 Building Digital Experiences with Code & Creativity
+# 🌐 WebBuilderz
 
-WebBuilderz is a technology-focused development brand creating **modern websites, AI-powered applications, automation tools and digital solutions.**
+### `BUILD • CREATE • INNOVATE`
 
----
+<img src="./assets/webbuilderz-3d.gif" width="420" alt="WebBuilderz 3D Animation">
 
-## 💻 What We Do
+<br>
 
-🌐 **Web Development**
-Modern, responsive and user-friendly websites.
+### 🚀 Digital Experiences. Intelligent Solutions.
 
-🤖 **AI Applications**
-AI-powered tools and intelligent digital solutions.
+**Web Development • AI • Cloud • Automation**
 
-☁️ **Cloud & DevOps**
-Cloud-based applications, deployment and automation.
-
-⚙️ **Software & Automation**
-Practical applications designed to simplify workflows.
-
-🎨 **UI/UX**
-Clean and modern interfaces focused on user experience.
+</div>
 
 ---
 
-## 🛠️ Technologies
+## ✨ About WebBuilderz
+
+**WebBuilderz** is a technology-focused development brand creating modern digital experiences, intelligent applications and practical software solutions.
+
+We build projects around:
+
+* 🌐 Modern Web Applications
+* 🤖 AI-powered Solutions
+* ☁️ Cloud Technologies
+* ⚙️ Automation
+* 🎨 UI/UX Experiences
+* 💻 Software Development
+
+---
+
+## 🧩 Technology Stack
+
+<div align="center">
 
 ### Frontend
 
@@ -41,37 +49,66 @@ Clean and modern interfaces focused on user experience.
 
 ### AI / ML
 
-`Python` `Machine Learning` `AI`
+`Python` `AI` `Machine Learning`
 
 ### Cloud & DevOps
 
 `Google Cloud` `Terraform` `Git` `GitHub`
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **AI Smart Agro**
-AI-powered agriculture platform providing smart farming assistance.
+### 🌱 AI Smart Agro
 
-🔹 **UPI Expense Tracker**
-Web application for tracking and managing personal expenses.
+An AI-powered agriculture platform designed to provide smart farming assistance and intelligent agricultural insights.
 
-🔹 **Rajbhoj Films**
-Modern photography and filmmaking portfolio website.
+**Tech:** `Python` `AI` `Web` `MySQL`
 
 ---
 
-## 📊 What We're Building
+### 💰 UPI Expense Tracker
 
-> **Ideas → Code → Products → Impact**
+A web application for tracking, managing and analyzing personal expenses.
 
-We continuously build, experiment and learn through real-world projects.
+**Tech:** `PHP` `MySQL` `JavaScript`
 
 ---
 
-## 🌐 WebBuilderz
+### 🎬 Rajbhoj Films
 
-**Web Development • AI • Cloud • Digital Solutions**
+A cinematic photography and filmmaking website designed to showcase services, portfolio and creative work.
 
-⭐ Explore our repositories and follow the journey.
+**Tech:** `HTML` `CSS` `JavaScript`
+
+---
+
+## ⚡ What We Believe
+
+> **Ideas become powerful when you build them.**
+
+We learn by building real-world projects, experimenting with new technologies and continuously improving our development workflow.
+
+---
+
+## 🌐 Connect With WebBuilderz
+
+<div align="center">
+
+**Building the future, one project at a time. 🚀**
+
+⭐ Explore our repositories
+💡 Build • Learn • Experiment
+🌐 WebBuilderz
+
+</div>
+
+---
+
+<div align="center">
+
+### `CODE • CREATE • DEPLOY • REPEAT`
+
+</div>
